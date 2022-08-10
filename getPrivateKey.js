@@ -7,7 +7,7 @@
  let keythereum = require("keythereum");
 
  // the keystore address
- let address = "0xd369b085e8907cBa039dD2BFA7b32E31a43273D3";
+ let address = "0xb20967A8A8f9290b0a9aaF8463ddf5f8320A66EB";
  
  // will find the ./keystore/[UTC-time-address file]
  let datadir = "./dev-chain";
